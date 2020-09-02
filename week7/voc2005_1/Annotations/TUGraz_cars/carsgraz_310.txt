@@ -1,0 +1,35 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/TUGraz_cars/carsgraz_310.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Dataset 1 Database (TUGraz)"
+Objects with ground truth : 6 { "PAStree" "PASstreetlight" "PAScar" "PASbuildingPart" "PAStreeRegion" "PAStree" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAStree")
+Original label for object 1 "PAStree" : "car"
+Bounding box for object 1 "PAStree" (Xmin, Ymin) - (Xmax, Ymax) : (1, 382) - (643, 492)
+
+# Details for object 2 ("PASstreetlight")
+Original label for object 2 "PASstreetlight" : "car"
+Bounding box for object 2 "PASstreetlight" (Xmin, Ymin) - (Xmax, Ymax) : (553, -1) - (588, 19)
+
+# Details for object 3 ("PAScar")
+Original label for object 3 "PAScar" : "car"
+Bounding box for object 3 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (575, 235) - (619, 268)
+
+# Details for object 4 ("PASbuildingPart")
+Original label for object 4 "PASbuildingPart" : "car"
+Bounding box for object 4 "PASbuildingPart" (Xmin, Ymin) - (Xmax, Ymax) : (238, 41) - (468, 201)
+
+# Details for object 5 ("PAStreeRegion")
+Original label for object 5 "PAStreeRegion" : "car"
+Bounding box for object 5 "PAStreeRegion" (Xmin, Ymin) - (Xmax, Ymax) : (-1, -1) - (322, 206)
+
+# Details for object 6 ("PAStree")
+Original label for object 6 "PAStree" : "car"
+Bounding box for object 6 "PAStree" (Xmin, Ymin) - (Xmax, Ymax) : (493, 102) - (572, 256)

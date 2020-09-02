@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pedestrian/wwwdftgovukstellentgroupsdftroadsdocumentsgraphicdftroads5048162.png"
+Image size (X x Y x C) : 164 x 262 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 2 { "PASpersonStanding" "PAScar" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonStanding")
+Original label for object 1 "PASpersonStanding" : "none"
+Bounding box for object 1 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (76, 137) - (112, 236)
+
+# Details for object 2 ("PAScar")
+Original label for object 2 "PAScar" : "none"
+Bounding box for object 2 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (-18, 114) - (46, 161)

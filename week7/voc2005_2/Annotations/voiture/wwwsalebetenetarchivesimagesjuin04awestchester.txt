@@ -1,0 +1,31 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/voiture/wwwsalebetenetarchivesimagesjuin04awestchester.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 5 { "PAScarRear" "PAScarRear" "PAScarRear" "PAScar" "PAScarRear" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarRear")
+Original label for object 1 "PAScarRear" : "none"
+Bounding box for object 1 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (268, 202) - (399, 330)
+
+# Details for object 2 ("PAScarRear")
+Original label for object 2 "PAScarRear" : "none"
+Bounding box for object 2 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (431, 216) - (577, 310)
+
+# Details for object 3 ("PAScarRear")
+Original label for object 3 "PAScarRear" : "none"
+Bounding box for object 3 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (386, 230) - (450, 278)
+
+# Details for object 4 ("PAScar")
+Original label for object 4 "PAScar" : "none"
+Bounding box for object 4 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (-38, 221) - (172, 332)
+
+# Details for object 5 ("PAScarRear")
+Original label for object 5 "PAScarRear" : "none"
+Bounding box for object 5 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (188, 231) - (245, 280)

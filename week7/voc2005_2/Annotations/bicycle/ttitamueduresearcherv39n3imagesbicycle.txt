@@ -1,0 +1,39 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/bicycle/ttitamueduresearcherv39n3imagesbicycle.png"
+Image size (X x Y x C) : 500 x 310 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 7 { "PASbicycleSide" "PASbicycleSide" "PASpersonWalking" "PASperson" "PASpersonWalking" "PAScarFrontal" "PAScarFrontal" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASbicycleSide")
+Original label for object 1 "PASbicycleSide" : "none"
+Bounding box for object 1 "PASbicycleSide" (Xmin, Ymin) - (Xmax, Ymax) : (212, 159) - (457, 294)
+
+# Details for object 2 ("PASbicycleSide")
+Original label for object 2 "PASbicycleSide" : "none"
+Bounding box for object 2 "PASbicycleSide" (Xmin, Ymin) - (Xmax, Ymax) : (105, 147) - (329, 270)
+
+# Details for object 3 ("PASpersonWalking")
+Original label for object 3 "PASpersonWalking" : "none"
+Bounding box for object 3 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (186, 33) - (263, 260)
+
+# Details for object 4 ("PASperson")
+Original label for object 4 "PASperson" : "none"
+Bounding box for object 4 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (263, 60) - (377, 232)
+
+# Details for object 5 ("PASpersonWalking")
+Original label for object 5 "PASpersonWalking" : "none"
+Bounding box for object 5 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (69, 48) - (201, 275)
+
+# Details for object 6 ("PAScarFrontal")
+Original label for object 6 "PAScarFrontal" : "none"
+Bounding box for object 6 "PAScarFrontal" (Xmin, Ymin) - (Xmax, Ymax) : (272, 48) - (453, 198)
+
+# Details for object 7 ("PAScarFrontal")
+Original label for object 7 "PAScarFrontal" : "none"
+Bounding box for object 7 "PAScarFrontal" (Xmin, Ymin) - (Xmax, Ymax) : (-39, 48) - (182, 273)

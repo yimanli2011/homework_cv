@@ -1,0 +1,55 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/bike/wwwsikhkidscombikeride03imagesBikeride20030808jpg.png"
+Image size (X x Y x C) : 709 x 472 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 11 { "PASbicycle" "PASbicycle" "PASbicycle" "PASbicycle" "PASbicycle" "PASperson" "PASperson" "PASperson" "PASperson" "PASperson" "PASperson" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASbicycle")
+Original label for object 1 "PASbicycle" : "none"
+Bounding box for object 1 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (298, 312) - (420, 434)
+
+# Details for object 2 ("PASbicycle")
+Original label for object 2 "PASbicycle" : "none"
+Bounding box for object 2 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (115, 249) - (200, 356)
+
+# Details for object 3 ("PASbicycle")
+Original label for object 3 "PASbicycle" : "none"
+Bounding box for object 3 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (34, 245) - (133, 332)
+
+# Details for object 4 ("PASbicycle")
+Original label for object 4 "PASbicycle" : "none"
+Bounding box for object 4 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (203, 229) - (265, 298)
+
+# Details for object 5 ("PASbicycle")
+Original label for object 5 "PASbicycle" : "none"
+Bounding box for object 5 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (434, 238) - (492, 341)
+
+# Details for object 6 ("PASperson")
+Original label for object 6 "PASperson" : "none"
+Bounding box for object 6 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (46, 188) - (131, 329)
+
+# Details for object 7 ("PASperson")
+Original label for object 7 "PASperson" : "none"
+Bounding box for object 7 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (123, 192) - (185, 317)
+
+# Details for object 8 ("PASperson")
+Original label for object 8 "PASperson" : "none"
+Bounding box for object 8 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (202, 180) - (257, 285)
+
+# Details for object 9 ("PASperson")
+Original label for object 9 "PASperson" : "none"
+Bounding box for object 9 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (291, 217) - (402, 387)
+
+# Details for object 10 ("PASperson")
+Original label for object 10 "PASperson" : "none"
+Bounding box for object 10 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (535, 183) - (577, 263)
+
+# Details for object 11 ("PASperson")
+Original label for object 11 "PASperson" : "none"
+Bounding box for object 11 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (443, 185) - (496, 309)

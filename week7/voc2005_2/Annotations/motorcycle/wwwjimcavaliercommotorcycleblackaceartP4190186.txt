@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/motorcycle/wwwjimcavaliercommotorcycleblackaceartP4190186.png"
+Image size (X x Y x C) : 288 x 216 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 2 { "PASmotorbikeSide" "PASperson" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASmotorbikeSide")
+Original label for object 1 "PASmotorbikeSide" : "none"
+Bounding box for object 1 "PASmotorbikeSide" (Xmin, Ymin) - (Xmax, Ymax) : (25, 57) - (248, 190)
+
+# Details for object 2 ("PASperson")
+Original label for object 2 "PASperson" : "none"
+Bounding box for object 2 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (127, 29) - (223, 205)

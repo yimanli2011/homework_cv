@@ -1,0 +1,43 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/TUGraz_cars/carsgraz_315.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Dataset 1 Database (TUGraz)"
+Objects with ground truth : 8 { "PAScarRear" "PASstreetlight" "PASstreetlight" "PASstreet" "PASbuildingRegion" "PAStreeRegion" "PASskyRegion" "PASstreetlight" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarRear")
+Original label for object 1 "PAScarRear" : "car"
+Bounding box for object 1 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (171, 220) - (216, 253)
+
+# Details for object 2 ("PASstreetlight")
+Original label for object 2 "PASstreetlight" : "car"
+Bounding box for object 2 "PASstreetlight" (Xmin, Ymin) - (Xmax, Ymax) : (15, 38) - (40, 52)
+
+# Details for object 3 ("PASstreetlight")
+Original label for object 3 "PASstreetlight" : "car"
+Bounding box for object 3 "PASstreetlight" (Xmin, Ymin) - (Xmax, Ymax) : (102, 44) - (124, 58)
+
+# Details for object 4 ("PASstreet")
+Original label for object 4 "PASstreet" : "car"
+Bounding box for object 4 "PASstreet" (Xmin, Ymin) - (Xmax, Ymax) : (-4, 249) - (654, 494)
+
+# Details for object 5 ("PASbuildingRegion")
+Original label for object 5 "PASbuildingRegion" : "car"
+Bounding box for object 5 "PASbuildingRegion" (Xmin, Ymin) - (Xmax, Ymax) : (187, 86) - (372, 205)
+
+# Details for object 6 ("PAStreeRegion")
+Original label for object 6 "PAStreeRegion" : "car"
+Bounding box for object 6 "PAStreeRegion" (Xmin, Ymin) - (Xmax, Ymax) : (293, 1) - (646, 169)
+
+# Details for object 7 ("PASskyRegion")
+Original label for object 7 "PASskyRegion" : "car"
+Bounding box for object 7 "PASskyRegion" (Xmin, Ymin) - (Xmax, Ymax) : (0, 0) - (292, 99)
+
+# Details for object 8 ("PASstreetlight")
+Original label for object 8 "PASstreetlight" : "car"
+Bounding box for object 8 "PASstreetlight" (Xmin, Ymin) - (Xmax, Ymax) : (43, 89) - (63, 100)

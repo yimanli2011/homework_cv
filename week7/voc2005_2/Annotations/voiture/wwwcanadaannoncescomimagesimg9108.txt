@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/voiture/wwwcanadaannoncescomimagesimg9108.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 3 { "PAScar" "PASpersonStanding" "PAScarSide" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScar")
+Original label for object 1 "PAScar" : "none"
+Bounding box for object 1 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (26, 99) - (637, 403)
+
+# Details for object 2 ("PASpersonStanding")
+Original label for object 2 "PASpersonStanding" : "none"
+Bounding box for object 2 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (535, 62) - (577, 160)
+
+# Details for object 3 ("PAScarSide")
+Original label for object 3 "PAScarSide" : "none"
+Bounding box for object 3 "PAScarSide" (Xmin, Ymin) - (Xmax, Ymax) : (-24, 93) - (114, 152)

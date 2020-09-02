@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/voiture/pagepersoaolfrneversieimagesphare20et20voiture20de20becassineweb.png"
+Image size (X x Y x C) : 480 x 640 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 3 { "PASpersonStanding" "PAScar" "PASpersonStanding" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonStanding")
+Original label for object 1 "PASpersonStanding" : "none"
+Bounding box for object 1 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (373, 232) - (454, 446)
+
+# Details for object 2 ("PAScar")
+Original label for object 2 "PAScar" : "none"
+Bounding box for object 2 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (91, 233) - (369, 420)
+
+# Details for object 3 ("PASpersonStanding")
+Original label for object 3 "PASpersonStanding" : "none"
+Bounding box for object 3 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (35, 226) - (82, 373)

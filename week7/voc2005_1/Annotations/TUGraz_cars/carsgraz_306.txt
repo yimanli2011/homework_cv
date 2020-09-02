@@ -1,0 +1,47 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/TUGraz_cars/carsgraz_306.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Dataset 1 Database (TUGraz)"
+Objects with ground truth : 9 { "PAScarSide" "PASstreetSign" "PASstreetlight" "PASstreetlight" "PAStreeRegion" "PAStreeRegion" "PASbuilding" "PASsky" "PASstopSign" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarSide")
+Original label for object 1 "PAScarSide" : "car"
+Bounding box for object 1 "PAScarSide" (Xmin, Ymin) - (Xmax, Ymax) : (145, 336) - (336, 405)
+
+# Details for object 2 ("PASstreetSign")
+Original label for object 2 "PASstreetSign" : "car"
+Bounding box for object 2 "PASstreetSign" (Xmin, Ymin) - (Xmax, Ymax) : (297, 305) - (311, 326)
+
+# Details for object 3 ("PASstreetlight")
+Original label for object 3 "PASstreetlight" : "car"
+Bounding box for object 3 "PASstreetlight" (Xmin, Ymin) - (Xmax, Ymax) : (305, 191) - (323, 210)
+
+# Details for object 4 ("PASstreetlight")
+Original label for object 4 "PASstreetlight" : "car"
+Bounding box for object 4 "PASstreetlight" (Xmin, Ymin) - (Xmax, Ymax) : (221, 216) - (250, 236)
+
+# Details for object 5 ("PAStreeRegion")
+Original label for object 5 "PAStreeRegion" : "car"
+Bounding box for object 5 "PAStreeRegion" (Xmin, Ymin) - (Xmax, Ymax) : (572, 1) - (651, 359)
+
+# Details for object 6 ("PAStreeRegion")
+Original label for object 6 "PAStreeRegion" : "car"
+Bounding box for object 6 "PAStreeRegion" (Xmin, Ymin) - (Xmax, Ymax) : (96, 92) - (308, 350)
+
+# Details for object 7 ("PASbuilding")
+Original label for object 7 "PASbuilding" : "car"
+Bounding box for object 7 "PASbuilding" (Xmin, Ymin) - (Xmax, Ymax) : (64, 245) - (460, 358)
+
+# Details for object 8 ("PASsky")
+Original label for object 8 "PASsky" : "car"
+Bounding box for object 8 "PASsky" (Xmin, Ymin) - (Xmax, Ymax) : (-1, -1) - (470, 101)
+
+# Details for object 9 ("PASstopSign")
+Original label for object 9 "PASstopSign" : "car"
+Bounding box for object 9 "PASstopSign" (Xmin, Ymin) - (Xmax, Ymax) : (362, 341) - (379, 356)

@@ -1,0 +1,59 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/TUGraz_cars/carsgraz_313.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Dataset 1 Database (TUGraz)"
+Objects with ground truth : 12 { "PAScarRear" "PAScarRear" "PAScar" "PASbuildingRegion" "PASbuildingPart" "PASstreetlight" "PASstreetSign" "PASstreetlight" "PASstreetlight" "PASbuildingPart" "PAStreeRegion" "PAStreeRegion" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarRear")
+Original label for object 1 "PAScarRear" : "car"
+Bounding box for object 1 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (604, 212) - (634, 238)
+
+# Details for object 2 ("PAScarRear")
+Original label for object 2 "PAScarRear" : "car"
+Bounding box for object 2 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (575, 208) - (595, 223)
+
+# Details for object 3 ("PAScar")
+Original label for object 3 "PAScar" : "car"
+Bounding box for object 3 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (401, 206) - (458, 240)
+
+# Details for object 4 ("PASbuildingRegion")
+Original label for object 4 "PASbuildingRegion" : "car"
+Bounding box for object 4 "PASbuildingRegion" (Xmin, Ymin) - (Xmax, Ymax) : (120, 89) - (366, 195)
+
+# Details for object 5 ("PASbuildingPart")
+Original label for object 5 "PASbuildingPart" : "car"
+Bounding box for object 5 "PASbuildingPart" (Xmin, Ymin) - (Xmax, Ymax) : (-3, 0) - (113, 163)
+
+# Details for object 6 ("PASstreetlight")
+Original label for object 6 "PASstreetlight" : "car"
+Bounding box for object 6 "PASstreetlight" (Xmin, Ymin) - (Xmax, Ymax) : (565, 54) - (585, 69)
+
+# Details for object 7 ("PASstreetSign")
+Original label for object 7 "PASstreetSign" : "car"
+Bounding box for object 7 "PASstreetSign" (Xmin, Ymin) - (Xmax, Ymax) : (490, 55) - (513, 72)
+
+# Details for object 8 ("PASstreetlight")
+Original label for object 8 "PASstreetlight" : "car"
+Bounding box for object 8 "PASstreetlight" (Xmin, Ymin) - (Xmax, Ymax) : (575, 96) - (592, 109)
+
+# Details for object 9 ("PASstreetlight")
+Original label for object 9 "PASstreetlight" : "car"
+Bounding box for object 9 "PASstreetlight" (Xmin, Ymin) - (Xmax, Ymax) : (522, 95) - (538, 109)
+
+# Details for object 10 ("PASbuildingPart")
+Original label for object 10 "PASbuildingPart" : "car"
+Bounding box for object 10 "PASbuildingPart" (Xmin, Ymin) - (Xmax, Ymax) : (541, 152) - (611, 208)
+
+# Details for object 11 ("PAStreeRegion")
+Original label for object 11 "PAStreeRegion" : "car"
+Bounding box for object 11 "PAStreeRegion" (Xmin, Ymin) - (Xmax, Ymax) : (323, 86) - (467, 194)
+
+# Details for object 12 ("PAStreeRegion")
+Original label for object 12 "PAStreeRegion" : "car"
+Bounding box for object 12 "PAStreeRegion" (Xmin, Ymin) - (Xmax, Ymax) : (52, 79) - (199, 175)

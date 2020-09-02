@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pieton/wwwvilayphiounetphotosThpontpieton.png"
+Image size (X x Y x C) : 588 x 392 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 3 { "PASpersonStanding" "PAScar" "PAScar" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonStanding")
+Original label for object 1 "PASpersonStanding" : "none"
+Bounding box for object 1 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (435, 172) - (552, 466)
+
+# Details for object 2 ("PAScar")
+Original label for object 2 "PAScar" : "none"
+Bounding box for object 2 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (126, 168) - (279, 255)
+
+# Details for object 3 ("PAScar")
+Original label for object 3 "PAScar" : "none"
+Bounding box for object 3 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (12, 165) - (142, 224)

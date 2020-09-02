@@ -1,0 +1,27 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/velo/www3acclermontfretablissereaopmevelo2.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 4 { "PASbicycle" "PASbicycle" "PASbicycle" "PASbicycle" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASbicycle")
+Original label for object 1 "PASbicycle" : "none"
+Bounding box for object 1 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (121, 326) - (215, 511)
+
+# Details for object 2 ("PASbicycle")
+Original label for object 2 "PASbicycle" : "none"
+Bounding box for object 2 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (247, 304) - (323, 444)
+
+# Details for object 3 ("PASbicycle")
+Original label for object 3 "PASbicycle" : "none"
+Bounding box for object 3 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (337, 301) - (417, 442)
+
+# Details for object 4 ("PASbicycle")
+Original label for object 4 "PASbicycle" : "none"
+Bounding box for object 4 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (466, 306) - (587, 449)

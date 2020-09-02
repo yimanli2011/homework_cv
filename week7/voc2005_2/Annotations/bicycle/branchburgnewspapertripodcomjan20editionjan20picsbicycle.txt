@@ -1,0 +1,47 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/bicycle/branchburgnewspapertripodcomjan20editionjan20picsbicycle.png"
+Image size (X x Y x C) : 480 x 321 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 9 { "PASbicycle" "PASbicycle" "PASbicycle" "PASperson" "PASperson" "PASpersonStanding" "PASpersonStanding" "PASpersonStanding" "PASpersonStanding" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASbicycle")
+Original label for object 1 "PASbicycle" : "none"
+Bounding box for object 1 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (106, 157) - (191, 297)
+
+# Details for object 2 ("PASbicycle")
+Original label for object 2 "PASbicycle" : "none"
+Bounding box for object 2 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (220, 173) - (296, 250)
+
+# Details for object 3 ("PASbicycle")
+Original label for object 3 "PASbicycle" : "none"
+Bounding box for object 3 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (305, 203) - (422, 311)
+
+# Details for object 4 ("PASperson")
+Original label for object 4 "PASperson" : "none"
+Bounding box for object 4 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (61, 127) - (116, 258)
+
+# Details for object 5 ("PASperson")
+Original label for object 5 "PASperson" : "none"
+Bounding box for object 5 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (104, 113) - (196, 262)
+
+# Details for object 6 ("PASpersonStanding")
+Original label for object 6 "PASpersonStanding" : "none"
+Bounding box for object 6 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (191, 94) - (246, 252)
+
+# Details for object 7 ("PASpersonStanding")
+Original label for object 7 "PASpersonStanding" : "none"
+Bounding box for object 7 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (270, 101) - (314, 243)
+
+# Details for object 8 ("PASpersonStanding")
+Original label for object 8 "PASpersonStanding" : "none"
+Bounding box for object 8 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (310, 91) - (359, 270)
+
+# Details for object 9 ("PASpersonStanding")
+Original label for object 9 "PASpersonStanding" : "none"
+Bounding box for object 9 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (337, 83) - (416, 322)

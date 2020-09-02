@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/motorcycle/wwwhandirampcompicturesNew20PicsOxlitemonstermob1.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 2 { "PASmotorbike" "PASperson" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASmotorbike")
+Original label for object 1 "PASmotorbike" : "none"
+Bounding box for object 1 "PASmotorbike" (Xmin, Ymin) - (Xmax, Ymax) : (52, 91) - (464, 388)
+
+# Details for object 2 ("PASperson")
+Original label for object 2 "PASperson" : "none"
+Bounding box for object 2 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (171, 48) - (343, 342)

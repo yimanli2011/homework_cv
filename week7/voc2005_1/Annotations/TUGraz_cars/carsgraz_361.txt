@@ -1,0 +1,27 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/TUGraz_cars/carsgraz_361.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Dataset 1 Database (TUGraz)"
+Objects with ground truth : 4 { "PAScarRear" "PAScarFrontal" "PAScarPart" "PAScarPart" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarRear")
+Original label for object 1 "PAScarRear" : "car"
+Bounding box for object 1 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (202, 313) - (272, 381)
+
+# Details for object 2 ("PAScarFrontal")
+Original label for object 2 "PAScarFrontal" : "car"
+Bounding box for object 2 "PAScarFrontal" (Xmin, Ymin) - (Xmax, Ymax) : (172, 324) - (208, 361)
+
+# Details for object 3 ("PAScarPart")
+Original label for object 3 "PAScarPart" : "car"
+Bounding box for object 3 "PAScarPart" (Xmin, Ymin) - (Xmax, Ymax) : (258, 318) - (291, 367)
+
+# Details for object 4 ("PAScarPart")
+Original label for object 4 "PAScarPart" : "car"
+Bounding box for object 4 "PAScarPart" (Xmin, Ymin) - (Xmax, Ymax) : (555, 317) - (645, 416)

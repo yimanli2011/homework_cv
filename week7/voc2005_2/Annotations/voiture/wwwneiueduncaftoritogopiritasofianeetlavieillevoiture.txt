@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/voiture/wwwneiueduncaftoritogopiritasofianeetlavieillevoiture.png"
+Image size (X x Y x C) : 448 x 336 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 3 { "PASperson" "PASperson" "PAScarSide" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASperson")
+Original label for object 1 "PASperson" : "none"
+Bounding box for object 1 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (115, 131) - (158, 264)
+
+# Details for object 2 ("PASperson")
+Original label for object 2 "PASperson" : "none"
+Bounding box for object 2 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (161, 129) - (213, 274)
+
+# Details for object 3 ("PAScarSide")
+Original label for object 3 "PAScarSide" : "none"
+Bounding box for object 3 "PAScarSide" (Xmin, Ymin) - (Xmax, Ymax) : (69, 133) - (331, 269)

@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/Caltech_cars/image_0097.png"
+Image size (X x Y x C) : 184 x 155 x 3
+Database : "The VOC2005 Dataset 1 Database (Caltech)"
+Objects with ground truth : 3 { "PAScarRear" "PAScarRear" "PAScarRear" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarRear")
+Original label for object 1 "PAScarRear" : "carRear"
+Bounding box for object 1 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (46, 45) - (144, 112)
+
+# Details for object 2 ("PAScarRear")
+Original label for object 2 "PAScarRear" : "carRear"
+Bounding box for object 2 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (15, 44) - (34, 58)
+
+# Details for object 3 ("PAScarRear")
+Original label for object 3 "PAScarRear" : "carRear"
+Bounding box for object 3 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (42, 38) - (71, 62)

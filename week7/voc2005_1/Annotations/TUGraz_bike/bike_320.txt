@@ -1,0 +1,27 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/TUGraz_bike/bike_320.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Dataset 1 Database (TUGraz)"
+Objects with ground truth : 4 { "PASbicycle" "PASbicycle" "PASbicycle" "PASbicycle" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASbicycle")
+Original label for object 1 "PASbicycle" : "bike"
+Bounding box for object 1 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (434, 124) - (646, 417)
+
+# Details for object 2 ("PASbicycle")
+Original label for object 2 "PASbicycle" : "bike"
+Bounding box for object 2 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (113, 81) - (380, 387)
+
+# Details for object 3 ("PASbicycle")
+Original label for object 3 "PASbicycle" : "bike"
+Bounding box for object 3 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (331, 68) - (534, 232)
+
+# Details for object 4 ("PASbicycle")
+Original label for object 4 "PASbicycle" : "bike"
+Bounding box for object 4 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (6, 60) - (244, 317)

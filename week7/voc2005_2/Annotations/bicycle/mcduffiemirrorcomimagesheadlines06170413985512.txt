@@ -1,0 +1,31 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/bicycle/mcduffiemirrorcomimagesheadlines06170413985512.png"
+Image size (X x Y x C) : 400 x 266 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 5 { "PASbicycle" "PASbicycle" "PASperson" "PASperson" "PAScarFrontal" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASbicycle")
+Original label for object 1 "PASbicycle" : "none"
+Bounding box for object 1 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (157, 168) - (218, 280)
+
+# Details for object 2 ("PASbicycle")
+Original label for object 2 "PASbicycle" : "none"
+Bounding box for object 2 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (94, 158) - (140, 246)
+
+# Details for object 3 ("PASperson")
+Original label for object 3 "PASperson" : "none"
+Bounding box for object 3 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (151, 89) - (203, 262)
+
+# Details for object 4 ("PASperson")
+Original label for object 4 "PASperson" : "none"
+Bounding box for object 4 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (97, 108) - (136, 237)
+
+# Details for object 5 ("PAScarFrontal")
+Original label for object 5 "PAScarFrontal" : "none"
+Bounding box for object 5 "PAScarFrontal" (Xmin, Ymin) - (Xmax, Ymax) : (247, 78) - (495, 291)

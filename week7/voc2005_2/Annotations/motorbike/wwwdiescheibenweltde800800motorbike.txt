@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/motorbike/wwwdiescheibenweltde800800motorbike.png"
+Image size (X x Y x C) : 800 x 543 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 3 { "PASmotorbikeSide" "PASperson" "PASpersonStanding" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASmotorbikeSide")
+Original label for object 1 "PASmotorbikeSide" : "none"
+Bounding box for object 1 "PASmotorbikeSide" (Xmin, Ymin) - (Xmax, Ymax) : (122, 220) - (700, 580)
+
+# Details for object 2 ("PASperson")
+Original label for object 2 "PASperson" : "none"
+Bounding box for object 2 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (179, 169) - (347, 498)
+
+# Details for object 3 ("PASpersonStanding")
+Original label for object 3 "PASpersonStanding" : "none"
+Bounding box for object 3 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (385, 136) - (517, 545)

@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/motorbike/wwwhokujikocojpimagesmotorbike.png"
+Image size (X x Y x C) : 232 x 222 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 2 { "PASmotorbike" "PASpersonStanding" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASmotorbike")
+Original label for object 1 "PASmotorbike" : "none"
+Bounding box for object 1 "PASmotorbike" (Xmin, Ymin) - (Xmax, Ymax) : (41, 90) - (167, 218)
+
+# Details for object 2 ("PASpersonStanding")
+Original label for object 2 "PASpersonStanding" : "none"
+Bounding box for object 2 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (106, 41) - (161, 204)

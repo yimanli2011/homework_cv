@@ -1,0 +1,35 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/motocyclette/wwwvacaccgccacontentfeaturenormandy04overseas0420040604photoimages0604DDAY0017b.png"
+Image size (X x Y x C) : 257 x 300 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 6 { "PASmotorbike" "PASperson" "PASpersonStanding" "PASpersonStanding" "PASpersonStanding" "PASpersonStanding" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASmotorbike")
+Original label for object 1 "PASmotorbike" : "none"
+Bounding box for object 1 "PASmotorbike" (Xmin, Ymin) - (Xmax, Ymax) : (33, 72) - (267, 352)
+
+# Details for object 2 ("PASperson")
+Original label for object 2 "PASperson" : "none"
+Bounding box for object 2 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (74, 61) - (161, 277)
+
+# Details for object 3 ("PASpersonStanding")
+Original label for object 3 "PASpersonStanding" : "none"
+Bounding box for object 3 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (39, 74) - (86, 169)
+
+# Details for object 4 ("PASpersonStanding")
+Original label for object 4 "PASpersonStanding" : "none"
+Bounding box for object 4 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (23, 68) - (43, 156)
+
+# Details for object 5 ("PASpersonStanding")
+Original label for object 5 "PASpersonStanding" : "none"
+Bounding box for object 5 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (192, 72) - (220, 158)
+
+# Details for object 6 ("PASpersonStanding")
+Original label for object 6 "PASpersonStanding" : "none"
+Bounding box for object 6 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (229, 65) - (256, 142)

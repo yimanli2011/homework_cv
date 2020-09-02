@@ -1,0 +1,35 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/Caltech_cars/image_0007.png"
+Image size (X x Y x C) : 213 x 170 x 3
+Database : "The VOC2005 Dataset 1 Database (Caltech)"
+Objects with ground truth : 6 { "PAScarRear" "PAScarRear" "PAScarRear" "PAScarPart" "PAScarRear" "PAScarRear" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarRear")
+Original label for object 1 "PAScarRear" : "carRear"
+Bounding box for object 1 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (47, 41) - (167, 122)
+
+# Details for object 2 ("PAScarRear")
+Original label for object 2 "PAScarRear" : "carRear"
+Bounding box for object 2 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (26, 37) - (53, 55)
+
+# Details for object 3 ("PAScarRear")
+Original label for object 3 "PAScarRear" : "carRear"
+Bounding box for object 3 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (196, 33) - (217, 54)
+
+# Details for object 4 ("PAScarPart")
+Original label for object 4 "PAScarPart" : "carRear"
+Bounding box for object 4 "PAScarPart" (Xmin, Ymin) - (Xmax, Ymax) : (207, 40) - (214, 65)
+
+# Details for object 5 ("PAScarRear")
+Original label for object 5 "PAScarRear" : "carRear"
+Bounding box for object 5 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (61, 32) - (97, 56)
+
+# Details for object 6 ("PAScarRear")
+Original label for object 6 "PAScarRear" : "carRear"
+Bounding box for object 6 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (152, 31) - (175, 51)

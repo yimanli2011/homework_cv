@@ -1,0 +1,27 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/voiture/drouvrefreefrPhotos200308292020PrevisionPrevision142020Voiture20Balai20Christophe20.png"
+Image size (X x Y x C) : 640 x 512 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 4 { "PAScar" "PAScarFrontal" "PAScar" "PAScar" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScar")
+Original label for object 1 "PAScar" : "none"
+Bounding box for object 1 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (354, 219) - (567, 301)
+
+# Details for object 2 ("PAScarFrontal")
+Original label for object 2 "PAScarFrontal" : "none"
+Bounding box for object 2 "PAScarFrontal" (Xmin, Ymin) - (Xmax, Ymax) : (294, 224) - (368, 288)
+
+# Details for object 3 ("PAScar")
+Original label for object 3 "PAScar" : "none"
+Bounding box for object 3 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (271, 219) - (321, 266)
+
+# Details for object 4 ("PAScar")
+Original label for object 4 "PAScar" : "none"
+Bounding box for object 4 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (171, 220) - (252, 268)

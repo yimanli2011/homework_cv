@@ -1,0 +1,27 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/motorcycle/wwwamadirectlinkcommuseumimages0008hofhof7.png"
+Image size (X x Y x C) : 720 x 574 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 4 { "PASmotorbike" "PASmotorbike" "PASmotorbikeSide" "PASmotorbike" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASmotorbike")
+Original label for object 1 "PASmotorbike" : "none"
+Bounding box for object 1 "PASmotorbike" (Xmin, Ymin) - (Xmax, Ymax) : (21, 171) - (241, 431)
+
+# Details for object 2 ("PASmotorbike")
+Original label for object 2 "PASmotorbike" : "none"
+Bounding box for object 2 "PASmotorbike" (Xmin, Ymin) - (Xmax, Ymax) : (226, 121) - (480, 408)
+
+# Details for object 3 ("PASmotorbikeSide")
+Original label for object 3 "PASmotorbikeSide" : "none"
+Bounding box for object 3 "PASmotorbikeSide" (Xmin, Ymin) - (Xmax, Ymax) : (397, 15) - (758, 252)
+
+# Details for object 4 ("PASmotorbike")
+Original label for object 4 "PASmotorbike" : "none"
+Bounding box for object 4 "PASmotorbike" (Xmin, Ymin) - (Xmax, Ymax) : (509, 142) - (692, 573)

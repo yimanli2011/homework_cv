@@ -1,0 +1,31 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/INRIA_graz-person-train/person_202.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Testset 2 Database (INRIA)"
+Objects with ground truth : 5 { "PASperson" "PASperson" "PASperson" "PASperson" "PASperson" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASperson")
+Original label for object 1 "PASperson" : "UprightPerson"
+Bounding box for object 1 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (201, 110) - (276, 376)
+
+# Details for object 2 ("PASperson")
+Original label for object 2 "PASperson" : "UprightPerson"
+Bounding box for object 2 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (431, 150) - (508, 371)
+
+# Details for object 3 ("PASperson")
+Original label for object 3 "PASperson" : "UprightPerson"
+Bounding box for object 3 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (354, 106) - (405, 269)
+
+# Details for object 4 ("PASperson")
+Original label for object 4 "PASperson" : "UprightPerson"
+Bounding box for object 4 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (539, 108) - (594, 255)
+
+# Details for object 5 ("PASperson")
+Original label for object 5 "PASperson" : "UprightPerson"
+Bounding box for object 5 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (275, 115) - (313, 240)

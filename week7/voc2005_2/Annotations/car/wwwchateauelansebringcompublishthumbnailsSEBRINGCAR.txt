@@ -1,0 +1,27 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/car/wwwchateauelansebringcompublishthumbnailsSEBRINGCAR.png"
+Image size (X x Y x C) : 250 x 138 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 4 { "PAScarFrontal" "PAScar" "PAScar" "PAScarFrontal" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarFrontal")
+Original label for object 1 "PAScarFrontal" : "none"
+Bounding box for object 1 "PAScarFrontal" (Xmin, Ymin) - (Xmax, Ymax) : (167, 35) - (239, 77)
+
+# Details for object 2 ("PAScar")
+Original label for object 2 "PAScar" : "none"
+Bounding box for object 2 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (122, 40) - (219, 107)
+
+# Details for object 3 ("PAScar")
+Original label for object 3 "PAScar" : "none"
+Bounding box for object 3 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (22, 41) - (160, 118)
+
+# Details for object 4 ("PAScarFrontal")
+Original label for object 4 "PAScarFrontal" : "none"
+Bounding box for object 4 "PAScarFrontal" (Xmin, Ymin) - (Xmax, Ymax) : (51, 22) - (106, 57)

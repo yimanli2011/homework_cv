@@ -1,0 +1,27 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/motorcycle/camerastivcomPictures20of20PhotosGina27s20Mom27sAniversarySusan27s197320Mom20on20motorcycle20Number202.png"
+Image size (X x Y x C) : 500 x 440 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 4 { "PASmotorbikeSide" "PASperson" "PASperson" "PASperson" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASmotorbikeSide")
+Original label for object 1 "PASmotorbikeSide" : "none"
+Bounding box for object 1 "PASmotorbikeSide" (Xmin, Ymin) - (Xmax, Ymax) : (64, 174) - (461, 393)
+
+# Details for object 2 ("PASperson")
+Original label for object 2 "PASperson" : "none"
+Bounding box for object 2 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (169, 60) - (268, 404)
+
+# Details for object 3 ("PASperson")
+Original label for object 3 "PASperson" : "none"
+Bounding box for object 3 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (98, 76) - (197, 330)
+
+# Details for object 4 ("PASperson")
+Original label for object 4 "PASperson" : "none"
+Bounding box for object 4 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (429, 96) - (502, 277)

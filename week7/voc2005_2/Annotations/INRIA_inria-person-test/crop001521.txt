@@ -1,0 +1,35 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/INRIA_inria-person-test/crop001521.png"
+Image size (X x Y x C) : 769 x 516 x 3
+Database : "The VOC2005 Testset 2 Database (INRIA)"
+Objects with ground truth : 6 { "PASperson" "PASperson" "PASperson" "PASperson" "PASperson" "PASperson" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASperson")
+Original label for object 1 "PASperson" : "UprightPerson"
+Bounding box for object 1 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (194, 176) - (256, 418)
+
+# Details for object 2 ("PASperson")
+Original label for object 2 "PASperson" : "UprightPerson"
+Bounding box for object 2 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (262, 182) - (314, 375)
+
+# Details for object 3 ("PASperson")
+Original label for object 3 "PASperson" : "UprightPerson"
+Bounding box for object 3 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (372, 181) - (433, 368)
+
+# Details for object 4 ("PASperson")
+Original label for object 4 "PASperson" : "UprightPerson"
+Bounding box for object 4 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (419, 159) - (475, 344)
+
+# Details for object 5 ("PASperson")
+Original label for object 5 "PASperson" : "UprightPerson"
+Bounding box for object 5 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (492, 170) - (558, 382)
+
+# Details for object 6 ("PASperson")
+Original label for object 6 "PASperson" : "UprightPerson"
+Bounding box for object 6 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (550, 181) - (605, 384)

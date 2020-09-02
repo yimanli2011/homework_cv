@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/motorcycle/wwwsafetycouncilnetimages5Cmtp3.png"
+Image size (X x Y x C) : 500 x 279 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 3 { "PASmotorbike" "PASmotorbike" "PASmotorbike" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASmotorbike")
+Original label for object 1 "PASmotorbike" : "none"
+Bounding box for object 1 "PASmotorbike" (Xmin, Ymin) - (Xmax, Ymax) : (14, 84) - (64, 161)
+
+# Details for object 2 ("PASmotorbike")
+Original label for object 2 "PASmotorbike" : "none"
+Bounding box for object 2 "PASmotorbike" (Xmin, Ymin) - (Xmax, Ymax) : (104, 121) - (224, 252)
+
+# Details for object 3 ("PASmotorbike")
+Original label for object 3 "PASmotorbike" : "none"
+Bounding box for object 3 "PASmotorbike" (Xmin, Ymin) - (Xmax, Ymax) : (385, 88) - (448, 160)

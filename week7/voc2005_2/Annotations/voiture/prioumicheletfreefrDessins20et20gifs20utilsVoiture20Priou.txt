@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/voiture/prioumicheletfreefrDessins20et20gifs20utilsVoiture20Priou.png"
+Image size (X x Y x C) : 450 x 280 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 3 { "PAScar" "PAScarFrontal" "PAScarRear" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScar")
+Original label for object 1 "PAScar" : "none"
+Bounding box for object 1 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (111, 55) - (459, 243)
+
+# Details for object 2 ("PAScarFrontal")
+Original label for object 2 "PAScarFrontal" : "none"
+Bounding box for object 2 "PAScarFrontal" (Xmin, Ymin) - (Xmax, Ymax) : (13, 42) - (134, 140)
+
+# Details for object 3 ("PAScarRear")
+Original label for object 3 "PAScarRear" : "none"
+Bounding box for object 3 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (103, 54) - (257, 168)
