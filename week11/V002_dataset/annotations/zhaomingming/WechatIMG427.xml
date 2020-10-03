@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>WechatIMG427.png</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1428</width>
+        <height>1432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>天府可乐</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>380</xmin>
+            <ymin>12</ymin>
+            <xmax>904</xmax>
+            <ymax>1412</ymax>
+        </bndbox>
+    </object>
+</annotation>
